@@ -1,0 +1,1 @@
+# High-Risk-Categorisations-in-GDPR-vs-AI-Act

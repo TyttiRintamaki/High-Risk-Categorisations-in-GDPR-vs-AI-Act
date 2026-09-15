@@ -4049,17 +4049,16 @@ Using this table of all the processing activities that are considered high-risk 
 
 ## Number of Processing Activities requiring a DPIA
 
-To show the variance between the member states and EEA countries, we compiled a bar chart of each country and the number of processing activities they consider high-risk and require conducting a DPIA. We included how many activities GDPR and EDPB list to show how much guidance there is in terms of the activities and allow for a comparison of how many more activities individual countries have added to their lists. Below is the summarised representation of the variance in the amount of DPIA required conditions across the mentioned sources. Each member state is referred to by its ISO 3166-2 code, for example AT for Austria or FR for France. 
+To show the variance between the member states and EEA countries, we compiled a bar chart of each country and the number of processing activities they consider high-risk and require conducting a DPIA as well as including another bar chart which shows which countries also specified processing activities not considered high-risk and therefor not requiring conducting a DPIA. We included how many activities GDPR and EDPB list to show how much guidance there is in terms of the activities and allow for a comparison of how many more activities individual countries have added to their lists. Below is the summarised representation of the variance in the amount of DPIA required conditions across the mentioned sources. Each member state is referred to by its ISO 3166-2 code, for example AT for Austria or FR for France. 
 
-<div align="center">
-<img width="631" alt="image" src="NumberofProcessingActivitiesRequiringaDPIA.jpg?raw=true">
-</div>
 
 <div align="center">
 <img width="631" alt="image" src="DPIARequiredNOTRequired_chart.png?raw=true">
 </div>
 
 Cyprus has the most conditions for a DPIA (n=35). Poland has the second most (n=31) and France and Greece have the third most conditions (n=30) and Malta and Sweden have the least (n=15). Of note, the bulk of DPIA required conditions in our list come from country specific lists ((93 out of 106). In these, stable activities include (large scale) Processing of communication and location data (22 countries), (large-scale) processing of employee activities (19 countries), and processing with legal effects such as access to or exclusion of services (12 countries). The use of AI required a DPIA in Austria, Denmark, Germany, Greece, and the Czech Republic. 
+
+Regarding processing activités that do not require a DPIA, only eight countries have provided lists for these (April 2026). These are Austria, Croatia, Czechia, France, Italy, Latvia, the Netherlands and Spain. These lists vary much more than the DPIA required lists which were between 15-35. For the DPIA not required conditions, the number ranges from 0 for most countries, to 29 for Austria. From those that have published DPIA not required lists, Austria has the most (n=29), and Croatia, Italy and the Netherlands have the least (n=4). 
 
 Another visualisation of the variance in number of processing activities across the EU, is the following image of a map of the EU colour coded to show which countries have the least additions and which have the most. The gradient—from dark red, red, orange, yellow, to pale yellow—visually conveys the disparity in regulatory clarity across the EU. Red is used to show which countries have the least amount of Processing Activities listed/ least amount of additions made to the GDPR and EDPB mentioned activities. Yellow is used to show the countries that have the most additions. where Red signifies concern over the lack of clarification of what activities require a DPIA and Yellow signalling many additions have been made and guidance is therefore clearer on when to conduct a DPIA. 
 

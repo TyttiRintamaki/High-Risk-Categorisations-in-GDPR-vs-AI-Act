@@ -1,7 +1,7 @@
 # High Risk Categorisations in GDPR vs AI Act: Overlaps and Implications
 
-Date: pending publication <br>
-Publication: pending <br>
+Date: Available online 22 April 2026. Computer Law & Security Review: The International Journal of Technology Law and Practice 61 (2026) 106317.
+Publication: https://doi.org/10.1016/j.clsr.2026.106317 
 Authors: Tytti Rintamäki, Delaram Golpayegani, Dave Lewis, Edoardo Celeste, Harshvardhan Pandit
 
 ## Table of Contents
@@ -17,7 +17,7 @@ Authors: Tytti Rintamäki, Delaram Golpayegani, Dave Lewis, Edoardo Celeste, Har
 5. [References](#references)
 
 ## Abstract: 
-Under the EU General Data Protection Regulation (GDPR), the processing of personal data with new technologies (including Artificial Intelligence) requires conducting a Data Protection Impact Assessment (DPIA) to evaluate the potential risks to the rights and freedoms of individuals. In addition to defining categories of processing which require a DPIA, the GDPR also empowers Data Protection Authorities (DPAs) to define additional categories where a DPIA must be conducted, which led to a fragmented implementation landscape across the EU. In 2024, the EU adopted the AI Act, which classifies Artificial Intelligence (AI) technologies according to their level of risk for fundamental rights, democracy and society, and requires conducting a Fundamental Rights Impact Assessment (FRIA). The compelling question thus emerges of how and where DPIAs are required and what their relationship is vis-a-vis the risk assessment required by the AI Act. This paper first presents an analysis of DPIA requirements collected from the guidelines of all 27 EU member states and 3 EEA countries and then compares them with the ’high-risk’ areas defined in the EU AI Act’s Annex III. We show the overlaps, gaps, and divergence in EU Member States regarding applying DPIAs to AI. We also discuss how such assessments require coherence and cooperation throughout the AI lifecycle and supply chain based on ISO/IEC 5338:2023 to efficiently identify and resolve risks and impacts. Our findings are significant for the implementation of GDPR and AI Act and co-operation between their respective authorities, and highlight the necessity to harmonise the application of DPIAs with the AI Act’s high-risk areas. 
+Under the EU General Data Protection Regulation (GDPR), the processing of personal data with ‘‘new technologies’’, including Artificial Intelligence (AI), requires conducting a Data Protection Impact Assessment (DPIA) to evaluate potential risks to the rights and freedoms of individuals. In addition to identifying categories of processing that require a DPIA, the GDPR empowers national Data Protection Authorities (DPAs) to define additional categories where a DPIA is necessary. The recently adopted AI Act classifies AI technologies according to their level of risk to health, safety, and fundamental rights. For certain systems in Annex III of the EU AI Act, the AI Act requires a Fundamental Rights Impact Assessment (FRIA) to be conducted, which represents an additional requirement for AI systems already subject to a DPIA under the GDPR. This context thus raises the question of how these two regulations work together and how their enforcement can be harmonised. This paper analyses DPIA requirements collected from all the 27 EU and 3 EEA countries and compares them with the FRIA requirements defined in the AI Act. We show there are overlaps and divergences across national requirements to conduct impact assessments for the use of AI. Based on this, we argue for the need to harmonise the DPIA requirements across the EU/ EEA for an effective implementation of the GDPR, to improve the alignment with the AI Act, and to facilitate the sharing of risk assessment information earlier in the AI value chain to guide responsible innovation.
 
 ## Keywords:
 GDPR, impact assessment, DPIA, FRIA, High-risk, EU AI Act, rights, AI Value Chain, AI Lifecycle.
@@ -25,12 +25,12 @@ GDPR, impact assessment, DPIA, FRIA, High-risk, EU AI Act, rights, AI Value Chai
 ## Methodology: 
 To address this important yet under explored overlap between the GDPR and the AI Act, we investigate the intersections in the categorisation of high risk technologies across the GDPR and the AI Act as well as the implications of potential overlaps and divergences. In order to achieve this, we have the following research objectives: 
 
-RO1: We identify the key concepts that determine high-risk processing activities in the GDPR and its national implementing legislation (ADD link to Section); 
+RO1: We identify the key concepts that determine high-risk processing activities in the GDPR and its national implementing legislation ; 
 - Table of all the processing activities that require conducting a DPIA as per GDPR, EDPB, all 27 EU member states and 3 EEA countries
 
-RO2: We analyse high-risk AI systems in the AI Act Annex III to identify the potential applicability of the GDPR DPIA based on identified key concepts in RO1 (ADD link to Section); 
+RO2: We analyse high-risk AI systems in the AI Act Annex III to identify the potential applicability of the GDPR DPIA based on identified key concepts in RO1 ; 
 
-RO3: We compare high-risk categorisations in the GDPR and the AI Act to identify overlaps, gaps, and variance (ADD link to Section); and finally 
+RO3: We compare high-risk categorisations in the GDPR and the AI Act to identify overlaps, gaps, and variance ; and finally 
 
 RO4: We assess the implications of the findings in RO3 on the AI value chain. 
 
@@ -4055,7 +4055,11 @@ To show the variance between the member states and EEA countries, we compiled a 
 <img width="631" alt="image" src="NumberofProcessingActivitiesRequiringaDPIA.jpg?raw=true">
 </div>
 
-Poland has the most conditions for a DPIA (n=31). France and Greece have the second most conditions (n=30) and Malta and Sweden have the least (n=15). Of note, the bulk of DPIA required conditions in our list come from country specific lists ((93 out of 106). In these, stable activities include (large scale) Processing of communication and location data (22 countries), (large-scale) processing of employee activities (19 countries), and processing with legal effects such as access to or exclusion of services (12 countries). The use of AI required a DPIA in Austria, Denmark, Germany, Greece, and the Czech Republic. 
+<div align="center">
+<img width="631" alt="image" src="DPIARequiredNOTRequired_chart.png?raw=true">
+</div>
+
+Cyprus has the most conditions for a DPIA (n=35). Poland has the second most (n=31) and France and Greece have the third most conditions (n=30) and Malta and Sweden have the least (n=15). Of note, the bulk of DPIA required conditions in our list come from country specific lists ((93 out of 106). In these, stable activities include (large scale) Processing of communication and location data (22 countries), (large-scale) processing of employee activities (19 countries), and processing with legal effects such as access to or exclusion of services (12 countries). The use of AI required a DPIA in Austria, Denmark, Germany, Greece, and the Czech Republic. 
 
 Another visualisation of the variance in number of processing activities across the EU, is the following image of a map of the EU colour coded to show which countries have the least additions and which have the most. The gradient—from dark red, red, orange, yellow, to pale yellow—visually conveys the disparity in regulatory clarity across the EU. Red is used to show which countries have the least amount of Processing Activities listed/ least amount of additions made to the GDPR and EDPB mentioned activities. Yellow is used to show the countries that have the most additions. where Red signifies concern over the lack of clarification of what activities require a DPIA and Yellow signalling many additions have been made and guidance is therefore clearer on when to conduct a DPIA. 
 
